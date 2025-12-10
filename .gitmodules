@@ -1,4 +1,4 @@
 [submodule "Contracts"]
 	path = Contracts
 	url = ../MySubRepo
-	branch = main
+	branch = rc
