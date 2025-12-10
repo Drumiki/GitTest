@@ -2,7 +2,3 @@
 	path = Contracts
 	url = ../MySubRepo
 	branch = dev
-[submodule "ContractsUj"]
-	path = ContractsUj
-	url = ../MySubRepo
-	branch = rc
